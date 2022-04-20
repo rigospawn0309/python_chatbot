@@ -6,13 +6,16 @@
     border-radius: 10px;
     border: 1px solid gray;
     padding: 10px;
+    height:30vh;
+    overflow:scroll;
+    overflow-x:hidden;
 }
 .botText{
     font-family: monospace;
     font-size: 14px;
     text-align: left;
     line-height: 25px;
-    color: gray;
+    color: darkolivegreen;
 }
 #userInput{
     margin-left: auto;
@@ -48,7 +51,7 @@ h1{
     font-family: monospace;
     font-size: 14px;
     line-height: 25px;
-    color: gray;
+    color: darkslateblue;
 }
 #footer{
     background-color: lightgrey;
